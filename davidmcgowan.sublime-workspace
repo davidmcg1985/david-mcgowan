@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-horizontal"
+			],
+			[
+				"btn-",
+				"btn-file"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"passwor",
+				"password_confirmation"
+			],
+			[
+				"about",
+				"about-pic"
+			],
+			[
+				"TEX",
+				"text-transform"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"User",
+				"UserAdmin"
+			],
+			[
+				"App",
+				"AppController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 27288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/dmcg-styles.css",
+			"settings":
+			{
+				"buffer_size": 10873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mail/contact_me.php",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/David/Desktop/DavidMcGowan/css/freelancer.min.css",
+		"/C/Users/David/Desktop/mps-scotland/about.html",
+		"/C/Users/David/Desktop/mps-scotland/css/styles.css",
+		"/C/Users/David/Desktop/mps-scotland/gates.html",
+		"/C/Users/David/Desktop/mps-scotland/generalwork.html",
+		"/C/Users/David/Desktop/mps-scotland/index.html",
+		"/C/Users/David/Desktop/mps-scotland/ironmongery.html",
+		"/C/Users/David/Desktop/mps-scotland/painting.html",
+		"/C/Users/David/Desktop/mps-scotland/services.html",
+		"/C/Users/David/Desktop/mps-scotland/staining.html",
+		"/C/Users/David/Desktop/mps-scotland/test.html",
+		"/C/Users/David/Desktop/mps-scotland/fencing.html",
+		"/C/Users/David/Desktop/mps-scotland/decking.html",
+		"/C/Users/David/Desktop/mps-scotland/contact.html",
+		"/C/Users/David/Desktop/mps-scotland/css/home.css",
+		"/C/Users/David/Desktop/mps-scotland/css/about.css",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Posts/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/webroot/css/cake.generic.css",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/.htaccess 3",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/database.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26_original/app/View/Users/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Users/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Users/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26_original/app/View/Users/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26_original/app/View/Users/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Users/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Users/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Config/database.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/webroot/.htaccess",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/.htaccess",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/.htaccess",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Controller/UsersController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Controller/RepliesController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Layouts/default.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Controller/MessagesController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/Controller/RepliesController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Controller/PostsController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Model/User.php",
+		"/C/Users/David/AppData/Local/Temp/Temp1_cake_sms.zip/cake_sms/app/Controller/RepliesController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/.htaccess",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/.htaccess",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/Model/Message.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/Config/database.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/webroot/.htaccess",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/View/Replies/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/Controller/MessagesController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/View/Replies/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/View/Messages/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/View/Messages/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/View/Layouts/default.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/Model/Reply.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Model/Reply.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Model/Message.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth2/app/Model/User.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26_original/uscms26/app/Model/User.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Model/Post.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Replies/reply.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_sms/app/Config/routes.php",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/Message.php",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/routes.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Config/routes.php",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/Reply.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Controller/AppController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Posts/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26_original/uscms26/app/View/Posts/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Controller/CommentsController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Comments/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Comments/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Posts/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Posts/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Comments/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/View/Comments/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/app/Config/bootstrap.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cake_ca2/composer.json",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Comments/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Comments/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Comments/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Comments/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Controller/CommentsController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Controller/UsersController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Controller/AppController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Posts/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Posts/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Posts/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Posts/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Users/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Users/login.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Users/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Users/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/View/Users/add.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Model/User.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Config/bootstrap.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Controller/PostsController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/uscms26/app/Model/Post.php",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/database 2.php",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/.htaccess 4",
+		"/C/Users/David/AppData/Local/Temp/fz3temp-1/.htaccess 5",
+		"/C/Users/David/Desktop/photozero-digitalocean/photozero/urls.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/timeline/views.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/timeline/forms.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/photozero/settings/local.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/photozero/settings/production.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/timeline/tests.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/timeline/models.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/photozero/tests.py",
+		"/C/Users/David/Desktop/photozero-digitalocean/photozero/settings/__init__.py",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth2/app/Config/database.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth_vid/app/View/Users/index.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth_vid/app/View/Layouts/default.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth_vid/app/Config/core.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth_vid/app/Controller/AppController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth_vid/app/Config/bootstrap.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth_vid/app/Config/database.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/blog2/app/Controller/AppController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/View/Users/view.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/View/Users/edit.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Model/Post.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/PostsController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/View/Users/login.ctp",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Model/User.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/UsersController.php",
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/AppController.php",
+		"/C/Users/David/Desktop/dmcportfolio/index.php",
+		"/C/Users/David/Desktop/dmcportfolio/css/style.css",
+		"/C/Users/David/Desktop/dmcportfolio/about.html",
+		"/C/Users/David/Desktop/dmcportfolio/portfolio.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2014",
+			"submit",
+			"related",
+			"posts",
+			"$html",
+			"$tmp_location",
+			"like",
+			"photozone",
+			"a:hov",
+			"btn-de",
+			"setFlash",
+			"');\n",
+			"LoadModule rewrite_module libexec/apache2/mod_rewrite.so",
+			"cakplugin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 27288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8918,
+								8918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3458.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/dmcg-styles.css",
+					"settings":
+					{
+						"buffer_size": 10873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mail/contact_me.php",
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1207,
+								1207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}
