@@ -60,26 +60,18 @@
 	"buffers":
 	[
 		{
+			"file": "sections.html",
+			"settings":
+			{
+				"buffer_size": 16180,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 27288,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/dmcg-styles.css",
-			"settings":
-			{
-				"buffer_size": 10873,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "mail/contact_me.php",
-			"settings":
-			{
-				"buffer_size": 1227,
+				"buffer_size": 11011,
 				"line_ending": "Unix"
 			}
 		}
@@ -108,6 +100,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/David/Desktop/DavidMcGowan/css/dmcg-styles.min.css",
+		"/C/Users/David/Desktop/DavidMcGowan/js/dmcg-script.js",
+		"/C/Users/David/Desktop/DavidMcGowan/js/dmcg-script.min.js",
+		"/C/Users/David/Desktop/DavidMcGowan/mail/contact_me.php",
+		"/C/Users/David/Desktop/table.html",
 		"/C/Users/David/Desktop/DavidMcGowan/css/freelancer.min.css",
 		"/C/Users/David/Desktop/mps-scotland/about.html",
 		"/C/Users/David/Desktop/mps-scotland/css/styles.css",
@@ -230,12 +227,7 @@
 		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/PostsController.php",
 		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/View/Users/login.ctp",
 		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Model/User.php",
-		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/UsersController.php",
-		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/AppController.php",
-		"/C/Users/David/Desktop/dmcportfolio/index.php",
-		"/C/Users/David/Desktop/dmcportfolio/css/style.css",
-		"/C/Users/David/Desktop/dmcportfolio/about.html",
-		"/C/Users/David/Desktop/dmcportfolio/portfolio.html"
+		"/F/davidmcg_sss1_cakephp/xampp/htdocs/cakeauth/app/Controller/UsersController.php"
 	],
 	"find":
 	{
@@ -254,6 +246,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hide-me",
+			"hide",
+			"hidden",
 			"2014",
 			"submit",
 			"related",
@@ -285,23 +280,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "sections.html",
 					"settings":
 					{
-						"buffer_size": 27288,
+						"buffer_size": 16180,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8918,
-								8918
+								16180,
+								16180
 							]
 						],
 						"settings":
@@ -311,63 +306,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3458.0,
+						"translation.y": 5238.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/dmcg-styles.css",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 10873,
+						"buffer_size": 11011,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								846,
-								851
+								3787,
+								3787
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 540.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "mail/contact_me.php",
-					"settings":
-					{
-						"buffer_size": 1227,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1207,
-								1207
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1260.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
